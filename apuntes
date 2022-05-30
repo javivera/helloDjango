@@ -1,0 +1,8 @@
+django-admin startproject <name> (creates basic folder )
+
+python manage.py runserver (starts local server)
+
+python manage.py startapp <name> (create app folder with basic files)
+
+
+different apps (messaging , loging , posts)
